@@ -1,0 +1,119 @@
+# jemdoc: menu{MENU}{publications.html}
+
+= Publications
+
+== Preprints
+. L. Ballotta, A. Vekassy, S. Gil, and M. Yemini, 
+[https://arxiv.org/pdf/2409.12601.pdf https://arxiv.org/pdf/2407.06541.pdf "Friedkin-Johnsen model with diminishing competition"] - submitted. 
+. A. K. Day$^{*}$, O.~E. Akg\"un$^{*}$, S. Gil, \underline{M.~Yemini} and A. Nedi\'c, 
+[https://arxiv.org/pdf/2407.06541.pdf "Fast Distributed Optimization over Directed Graphs under Malicious Attacks using Trust"] - submitted. 
+. Q. Li, M. Yemini and H. T. Wai, 
+[https://arxiv.org/pdf/2404.10995.pdf "Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies"] - submitted. 
+. S. Gil., M. Yemini, A. Chorti, A. Nedi\'c, H. V. Poor and A. J. Goldsmith, 
+[https://arxiv.org/pdf/2311.07492.pdf ``How physicality enables trust: a New Era of trust-centered cyberphysical systems"] -  submitted. 
+
+== Journal Publications 
+. M. Yemini, A. Nedi\`c, S. Gil, and A. J. Goldsmith, 
+[https://arxiv.org/pdf/2212.02459.pdf "Resilient Distributed Optimization for Multi-agent cyberphysical systems"] - accepted for publication in the IEEE Transactions on Automatic Control.
+. R. Saha, M. Seif, M. Yemini,  A. J. Goldsmith, and H. V. Poor, 
+[https://arxiv.org/pdf/2406.03766 "Privacy Preserving Semi-Decentralized Mean Estimation over Intermittently-Connected Networks"] - accepted for publication in the IEEE Transactions on Signal Processing. 
+. M. Cavorsi, O. E. Akgun, M. Yemini, A. J. Goldsmith and S. Gil, 
+[https://ieeexplore.ieee.org/document/10559393 "Exploiting trust for resilient hypothesis testing with malicious robots (evolved version),"] 
+IEEE Transactions on Robotics, vol. 40, pp. 3514-3536, 2024.
+.  M. Yemini, R. Saha, E. Ozfatura, D. Gunduz, and A. J. Goldsmith, 
+[https://ieeexplore.ieee.org/document/10366207 "Robust Semi-Decentralized Federated Learning via Collaborative Relaying,"] IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 7520-7536, July 2024.
+. N. Weinberger and  M. Yemini, [https://ieeexplore.ieee.org/document/10196497 "Multi-armed bandits with self-information rewards,"] 
+IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7160-7184, November 2023.
+. M. Yemini, S. Gil and A. J. Goldsmith,
+[https://ieeexplore.ieee.org/document/9865875 "Cloud-cluster architecture for detection in intermittently connected sensor networks,"]
+IEEE Transactions on Wireless Communications, vol. 22, no. 2, pp. 903-919, Feb. 2023. 
+. T. Gafni, M. Yemini and K. Cohen,
+[https://ieeexplore.ieee.org/document/9964120 "Learning in restless bandits under exogenous global Markov process,"]
+IEEE Transactions on Signal Processing, vol. 70, pp. 5679-5693, 2022.
+. M. Yemini, A. Nedi\`c, A. J. Goldsmith and S. Gil, 
+[https://ieeexplore.ieee.org/document/9468419 "Characterizing trust and resilience in distributed consensus for cyberphysical systems,"] 
+IEEE Transactions on Robotics, vol. 38, no. 1, pp. 71-91, February, 2022.
+. M. Yemini and A. J. Goldsmith,
+[https://ieeexplore.ieee.org/document/9381616 "Virtual cell clustering with optimal resource allocation to maximize capacity,"]
+IEEE Transactions on Wireless Communications, vol. 20, no. 8, pp. 5099-5114, August 2021.
+. M. Yemini, A. Somekh-Baruch and A. Leshem,
+[https://ieeexplore.ieee.org/document/9335534 "The restless hidden Markov bandit with linear rewards,"] 
+IEEE Transactions on Signal Processing, vol. 69, no. 21, pp.  1108-1123, January, 2021.
+. M. Yemini, A. Somekh-Baruch, R. Cohen and A. Leshem,
+[https://ieeexplore.ieee.org/document/8758351 "The simultaneous connectivity of cognitive networks,"]
+IEEE Transactions on Information Theory, vol. 65, no. 11, pp. 6911-6930, November 2019.
+. A. Leshem and M. Yemini,
+[https://ieeexplore.ieee.org/document/8010432 "Phase noise compensation for OFDM systems,"]
+IEEE Transactions on Signal Processing, vol. 65, no. 21, pp. 5675-5686, November 1, 2017.
+. M. Yemini, A. Zappone, E. Jorswieck and A. Leshem,
+[https://ieeexplore.ieee.org/document/7926329 "Energy efficient bidirectional massive MIMO relay beamforming,"]
+IEEE Signal Processing Letters, vol. 24, no. 7, pp. 1010-1014, July 2017.
+. M. Yemini, A. Somekh-Baruch and A. Leshem,
+[https://ieeexplore.ieee.org/document/7547954 "On the multiple access channel with asynchronous cognition,"]
+IEEE Trans. on Information Theory, vol. 62, no. 10, pp. 5643-5663, October 2016.
+. M. Yemini, A. Somekh-Baruch and A. Leshem,
+[https://ieeexplore.ieee.org/document/7239572 "Asynchronous transmission over single-user state-dependent channels,"]
+IEEE Trans. on Information Theory, vol. 61, no. 11, pp. 5854-5867, November 2015.
+
+== Conference Publications
+. Y. Rudin, O. Keren, M.~Yemini, and  A.~Fish, 
+"Hardware implementation of an adaptive finite state machine utilizing Tsetlin machine," International Symposium on the Tsetlin Machine (ISTM), 2024.
+. L. Ballotta and M. Yemini, 
+[https://ieeexplore.ieee.org/document/10644459 "The Role of Confidence for Trust-Based Resilient Consensus,"] 2024 American Control Conference (ACC), Toronto, ON, Canada, 2024, pp. 2822-2829.
+. R. Saha, M. Seif, M. Yemini,  A. J. Goldsmith, and H. V. Poor, 
+[https://ieeexplore.ieee.org/document/10206910 "Collaborative Mean Estimation over Intermittently Connected Networks with Peer-To-Peer Privacy,"] 2023 IEEE International Symposium on Information Theory (ISIT).
+. M. Cavorsi, O. E. Akgun, M. Yemini, A. J. Goldsmith and S. Gil, 
+[https://arxiv.org/pdf/2209.12285.pdf "Exploiting trust for resilient hypothesis testing with malicious robots"] - accepted to 2023 IEEE Conference on Robotics and Automation (ICRA). 
+. M. Yemini, A. Nedi\'c, S. Gil, and A. J. Goldsmith 
+[https://ieeexplore.ieee.org/document/9992416 "Resilience to Malicious Activity in Distributed Optimization for Cyberphysical Systems,"]
+Proceedings of the 2022 IEEE Conference on Decision and Control (CDC).
+. N. Weinberger and  M. Yemini
+[https://ieeexplore.ieee.org/document/9834746 "Upper Confidence Interval Strategies for Multi-Armed Bandits with Entropy Rewards,"]
+Proceedings of the  2022 IEEE International Symposium on Information Theory (ISIT).
+. M. Yemini, R. Saha, E. Ozfatura, D. Gunduz, and A. J. Goldsmith
+[https://ieeexplore.ieee.org/document/9834707 "Semi-Decentralized Federated Learning with Collaborative Relaying,"]
+Proceedings of the  2022 IEEE International Symposium on Information Theory (ISIT).
+. T. Gafni, M. Yemini and K. Cohen,
+[https://ieeexplore.ieee.org/document/9746078 "Restless multi-armed bandits under exogenous global Markov process,"] 
+Proceedings of the  2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+. M. Yemini, E. Erkip and A. J. Goldsmith,
+[https://ieeexplore.ieee.org/document/9723136 "Interference reduction in virtual cell optimization,"]
+Proceedings of the 2021 IEEE  Asilomar Conference on Signals, Systems, and Computers.
+. M. Yemini, S. Gil and A. J. Goldsmith,
+[https://ieeexplore.ieee.org/document/9348131 "Exploiting local and cloud sensor fusion in intermittently connected sensor networks,"]
+Proceedings of the  2020 IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, 2020.
+. M. Yemini, A. Leshem and A. Somekh-Baruch,
+[https://ieeexplore.ieee.org/document/9304511 "Restless hidden Markov bandit with linear rewards,"]
+Proceedings of the  59th IEEE Conference on Decision and Control (CDC), Jeju, Korea (South), 2020.
+. M. Yemini and A. J. Goldsmith,
+[https://ieeexplore.ieee.org/document/9014051 "Virtual cell clustering with optimal resource allocation to maximize cellular system capacity,"]
+Proceedings of the 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 2019.
+. M. Yemini and A. J. Goldsmith,
+[https://ieeexplore.ieee.org/document/8849663 "Optimal resource allocation for cellular networks with virtual cell joint decoding,"]
+Proceedings of the 2019 IEEE International Symposium on Information Theory (ISIT'19), Paris, France, 2019, pp. 2519-2523.
+. M. Yemini, A. Somekh-Baruch, R. Cohen and A. Leshem,
+[https://ieeexplore.ieee.org/document/7541501 "Simultaneous connectivity in heterogeneous cognitive radio networks,"]
+Proceedings of the IEEE International Symposium Information Theory (ISIT'16), Barcelona, Spain, July 2016, pp. 1262-1266.
+. M. Yemini, A. Somekh-Baruch and A. Leshem,
+[https://ieeexplore.ieee.org/document/6875370 "On the asynchronous cognitive MAC,"]
+Proceedings of the IEEE International Symposium Information Theory (ISIT'14), Honolulu, HI, USA, June/July 2014, pp. 2929-2933.
+. M. Yemini, A. Somekh-Baruch and A. Leshem,
+[https://ieeexplore.ieee.org/document/6377017 "On channels with asynchronous state information at the transmitter,"]
+Proceedings of the IEEE 27th Convention of Electrical & Electronics Engineers in Israel (IEEEI), 2012.
+
+
+== Conference Talks without Formal Proceedings
+. Q. Li, M. Yemini  and H. T. Wai, ''Privacy-Efficacy Tradeoff of Clipped SGD with Decision-dependent Data", Workshop on Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact
+(in Conjunction with  ICML 2024), July 2024.
+. S. Apsel, V. Tarle, M. Yemini, Z. Zalevsky, N. Ozana, "Rolling-shutter laser speckle analysis in bio-photonics," SPIE Photonics Europe,  April 2024.
+. R. Saha, M. Yemini, E. Ozfatura, D. Gunduz, and A. J. Goldsmith
+[https://openreview.net/pdf?id=8b0RHdh2Xd0 "ColRel: Collaborative Relaying for Federated Learning over Intermittently Connected Networks,"]
+Workshop on Federated Learning: Recent Advances and New Challenges (in Conjunction with NeurIPS 2022).
+. M. Yemini, A. Nedi\'c, A. J. Goldsmith and S. Gil, 
+"Characterizing trust and resilience in distributed consensus for cyberphysical systems,"
+ IEEE Conference on Robotics and Automation (ICRA)  2022. 
+. M. Yemini, A. Zappone, E. Jorswieck and A. Leshem,
+"Energy efficient bidirectional massive MIMO relay beamforming,"
+2016 International Conference on the Science of Electrical Engineering (ICSEE 2016), Eilat, Israel.
+. M. Yemini, A. Somekh-Baruch and A. Leshem, "Asynchronous state information," 2016 Information Theory and Applications (ITA) Workshop.
+
